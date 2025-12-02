@@ -1,2 +1,2 @@
-# rthummaluru.github.io
-my github page for my portfolio website
+# portfolio
+my personal portfolio site
