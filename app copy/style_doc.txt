@@ -1,0 +1,13 @@
+Color Scheme:
+
+* From lightest to darkest
+
+#FFF2D7
+#FFE0B5
+#F8C794
+#D8AE7E
+
+rgb(255, 242, 215)
+rgb(255, 224, 181)
+rgb(248, 199, 148)
+rgb(216, 174, 126)
